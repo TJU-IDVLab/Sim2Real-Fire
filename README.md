@@ -9,6 +9,16 @@
 
 ## Getting Started
 
+### Step-by-Step Guide: Data Selection and Integration
+The following video provides a comprehensive overview of how we created and integrated the dataset:
+<div style="text-align: center;">
+    <video width="800" height="500" controls>
+        <source src="assets/preprocess.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+
 ### Sim2Real-Fire Dataset
 
 We create a brand-new **Sim2Real-Fire Dataset** dataset contains wildﬁre simulation and real-world data, including **1M** and **1K** wildﬁre scenarios. Each scenario is associated with five data modalities of environmental information, including topography, vegetation, fuel maps, weather data, and satellite images with the annotated fire regions.
