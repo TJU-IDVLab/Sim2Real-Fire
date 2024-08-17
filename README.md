@@ -11,12 +11,7 @@
 
 ### Step-by-Step Guide: Data Selection and Integration
 The following video provides a comprehensive overview of how we created and integrated the dataset:
-<div style="text-align: center;">
-    <video width="800" height="500" controls>
-        <source src="assets/preprocess.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+[![Sim2Real-Fire Dataset Creation Process](assets/cover.png)](assets/preprocess.mp4)
 
 
 ### Sim2Real-Fire Dataset
