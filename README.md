@@ -2,17 +2,16 @@
 
 **Sim2Real-Fire: A Multi-modal Simulation Dataset for Forecast and Backtracking of Real-world Forest Fire**
 
+### Step-by-Step Guide Video
+The following video provides a comprehensive overview of how we created and integrated the dataset:
+[![Sim2Real-Fire Dataset Creation Process](assets/cover.png)](assets/preprocess.mp4)
+
 <p align="center">
      <img src="assets/architecture.png" alt="Sim2Real-Fire" width="800px">
      <br/> S2R-FireTr forecasts wildfires by predicting future target fire areas based on source fire areas. (a) During the environment-guided area representation learning, we input the source fire areas and multi-modal environmental information into the transformer to compute the source area presentation A. (b) During the time-wise fire area regression, we input the source area presentation A and the target timestamp into the transformer to compute the target area presentation R for predicting the target fire areas. "Shifted Later" means that we concatenate the source and target areas to predict later areas. Source and target areas can be interchanged, creating a pipeline for wildfire backtracking.
 </p>
 
 ## Getting Started
-
-### Step-by-Step Guide: Data Selection and Integration
-The following video provides a comprehensive overview of how we created and integrated the dataset:
-[![Sim2Real-Fire Dataset Creation Process](assets/cover.png)](assets/preprocess.mp4)
-
 
 ### Sim2Real-Fire Dataset
 
