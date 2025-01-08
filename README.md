@@ -2,9 +2,28 @@
 
 **Sim2Real-Fire: A Multi-modal Simulation Dataset for Forecast and Backtracking of Real-world Forest Fire**
 
+### Sim2Real-Fire Dataset
+
+We uploaded the complete data set in packages. See the catalogue below.
+
+- **simulation data**
+  - [simulation_data_01](https://drive.google.com/drive/folders/1uSzsHcjtZeZvW76SSatxR5r2ps5KizEJ?usp=sharing)
+  - [simulation_data_02](https://drive.google.com/drive/folders/1OdNSsGkB4ZpPEDSbSi6fQbQ0IbcpVTiy?usp=sharing)
+  - simulation_data_03
+  - simulation_data_04
+  - simulation_data_05
+  - simulation_data_06
+- **real-world data**
+  - realworld_data_01
+  - realworld_data_02
+  - realworld_data_03
+  - realworld_data_04
+
 ### Step-by-Step Guide Video
 The following video provides a comprehensive overview of how we created and integrated the dataset:
 [![Sim2Real-Fire Dataset Creation Process](assets/cover.png)](assets/preprocess.mp4)
+
+
 
 ## Getting Started
 
@@ -33,7 +52,7 @@ Here, we present some examples of satellite images with the real fire areas. The
   <br/> Examples of satellite images with the real fire areas.
 </p>
 
-We will provide the full dataset upon the paper acceptance.
+
 
 <br>
 
