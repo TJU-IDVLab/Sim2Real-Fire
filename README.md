@@ -8,7 +8,7 @@ We uploaded the complete data set in packages. See the catalogue below.
 
 - **simulation data**
   - [simulation_data_01](https://drive.google.com/drive/folders/1uSzsHcjtZeZvW76SSatxR5r2ps5KizEJ?usp=sharing)
-  - simulation_data_02
+  - [simulation_data_02](https://drive.google.com/drive/folders/18QY858nhxsnsa1ZytIaVkuhQZgIN7jGj?usp=sharing)
   - simulation_data_03
   - simulation_data_04
   - simulation_data_05
